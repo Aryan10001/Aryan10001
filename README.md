@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan10001
 - 👀 I’m interested in programming😂
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C++/C
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me email = iwillnottell@gmail.com
 
